@@ -1,7 +1,7 @@
 # animovie-db
 **Updated: 29 June 2025**
 
-keylaplace's (MarkipelerHD) database of anime movies. Request for access via Discord by markipeler_hd#6842.
+keylaplace's (MarkipelerUHD) database of anime movies. Request for access via Discord by markipeler_hd#6842.
 ## Movie Database
 You can check the database of movie lists [here](animovie-db.md)
 ## Movie Specification
@@ -10,7 +10,7 @@ You can check the database of movie lists [here](animovie-db.md)
 3. Some movies are available with **English** dubbed audio.
 4. All subtitles are in **English**, in Blu-ray **PGS** format, SubStation Alpha stylized subtitles **(.ass)**, or basic UTF-8 subtitle format **(.srt/.sub)**.
 
-*Some devices may not be able to play, or decode AV1 format video, check your device specification before playing a movie. Devices built after 2023 would probably capable for AV1 decode.
+*Some devices may not be able to play, or decode AV1 format video, check your device specification before playing a movie. Devices built after 2023 would have AV1 decoding.
 ## Access
 Movies can be accessed using a web browser via [my **Jellyfin** server](https://keylaplace.palawan.usbx.me/jellyfin/web/index.html#!/home.html) with credential access requested, or **Plex**.
 
