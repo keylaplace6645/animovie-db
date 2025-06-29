@@ -14,13 +14,13 @@ Movies can be accessed using a web browser via [my **Jellyfin** server](https://
 If you're using a smartphone, you can use:
 ### Android
 + [**Jellyfin** (first-party client)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile&hl=en)
-+ [**Findroid** (Jellyfin third-party client)](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin&hl=id))
++ [**Findroid** (Jellyfin third-party client)](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin&hl=id)
 + [**Plex**](https://play.google.com/store/apps/details?id=com.plexapp.android&hl=en)
 
 ### iOS
 + [**Jellyfin** (first-party client)](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618)
 + Jellyfin third-party clients:
-- [**Swiftfin**](https://apps.apple.com/us/app/swiftfin/id1604098728)
-- [**Infuse**](https://apps.apple.com/us/app/infuse/id1136220934)
-- [**Streamyfin**](https://apps.apple.com/us/app/streamyfin/id6593660679)
+  - [**Swiftfin**](https://apps.apple.com/us/app/swiftfin/id1604098728)
+  - [**Infuse**](https://apps.apple.com/us/app/infuse/id1136220934)
+  - [**Streamyfin**](https://apps.apple.com/us/app/streamyfin/id6593660679)
 + [**Plex**](https://apps.apple.com/us/app/plex-watch-live-tv-and-movies/id383457673)
