@@ -17,7 +17,7 @@
 | 15  | I Want to Eat Your Pancreas                  | 君の膵臓をたべたい                      | 2018         | [Link](https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai) |
 | 16  | Mirai of the Future                          | 未来のミライ                           | 2018         | [Link](https://myanimelist.net/anime/36936/Mirai_no_Mirai)    |
 | 17  | Penguin Highway                              | ペンギン・ハイウェイ                   | 2018         | [Link](https://myanimelist.net/anime/37407/Penguin_Highway?q=penguin%20highway&cat=anime)   |
-| 18  | Flavors of Youth                             | 肆式青春                              | 2018         | [Link](https://myanimelist.net/anime/37396/Shikioriori?q=flavors%20of%20&cat=anime)       |
+| 18  | Flavors of Youth (**HDR**)                            | 肆式青春                              | 2018         | [Link](https://myanimelist.net/anime/37396/Shikioriori?q=flavors%20of%20&cat=anime)       |
 | 19  | Children of the Sea                          | 海獣の子供                            | 2019         | [Link](https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo)  |
 | 20  | Ride Your Wave                               | きみと、波にのれたら                    | 2019         | [Link](https://myanimelist.net/anime/38594/Kimi_to_Nami_ni_Noreru_ka) |
 | 21  | Hello World                                  | ハロー・ワールド                       | 2019         | [Link](https://myanimelist.net/anime/38816/Hello_World)       |
@@ -38,7 +38,7 @@
 | 36  | To Me, The One Who Loved You                 | 君を愛したひとりの僕へ                  | 2022         | [Link](https://myanimelist.net/anime/49835/Kimi_wo_Aishita_Hitori_no_Boku_e) |
 | 37  | Blue Thermal                                 | ブルーサーマル                         | 2022         | [Link](https://myanimelist.net/anime/49576/Blue_Thermal)      |
 | 38  | SPYxFAMILY Code:White                        | スパイファミリー コード:ホワイト         | 2023         | [Link](https://myanimelist.net/anime/53888/Spy_x_Family_Code_White) |
-| 39  | The Concierge at Hokkyoku Department Store   | 北極百貨店のコンシェルジュさん           | 2023         | [Link](https://myanimelist.net/anime/55115/Hokkyoku_Hyakkaten_no_Concierge-san) |
+| 39  | The Concierge at Hokkyoku Department Store (**AV1**)   | 北極百貨店のコンシェルジュさん           | 2023         | [Link](https://myanimelist.net/anime/55115/Hokkyoku_Hyakkaten_no_Concierge-san) |
 | 40  | Komada: A Whisky Family                      | 駒田蒸留所へようこそ                    | 2023         | [Link](https://myanimelist.net/anime/55149/Komada_Jouryuusho_e_Youkoso) |
 | 41  | Gold Kingdom and Water Kingdom               | 金の国 水の国                           | 2023         | [Link](https://myanimelist.net/anime/52186/Kin_no_Kuni_Mizu_no_Kuni) |
 | 42  | My Oni Girl                                  | 好きでも嫌いなあまのじゃく               | 2024         | [Link](https://myanimelist.net/anime/58449/Suki_demo_Kirai_na_Amanojaku) |
