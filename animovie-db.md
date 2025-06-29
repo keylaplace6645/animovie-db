@@ -16,8 +16,8 @@
 | 14  | Napping Princess                             | ひるね姫 ～知らないワタシの物語～         | 2017         | [Link](https://myanimelist.net/anime/33204/Hirune_Hime)       |
 | 15  | I Want to Eat Your Pancreas                  | 君の膵臓をたべたい                      | 2018         | [Link](https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai) |
 | 16  | Mirai of the Future                          | 未来のミライ                           | 2018         | [Link](https://myanimelist.net/anime/36936/Mirai_no_Mirai)    |
-| 17  | Penguin Highway                              | ペンギン・ハイウェイ                   | 2018         | [Link](https://myanimelist.net/anime/36999/Penguin_Highway)   |
-| 18  | Flavors of Youth                             | 肆式青春                              | 2018         | [Link](https://myanimelist.net/anime/37403/Shikioriori)       |
+| 17  | Penguin Highway                              | ペンギン・ハイウェイ                   | 2018         | [Link](https://myanimelist.net/anime/37407/Penguin_Highway?q=penguin%20highway&cat=anime)   |
+| 18  | Flavors of Youth                             | 肆式青春                              | 2018         | [Link](https://myanimelist.net/anime/37396/Shikioriori?q=flavors%20of%20&cat=anime)       |
 | 19  | Children of the Sea                          | 海獣の子供                            | 2019         | [Link](https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo)  |
 | 20  | Ride Your Wave                               | きみと、波にのれたら                    | 2019         | [Link](https://myanimelist.net/anime/38594/Kimi_to_Nami_ni_Noreru_ka) |
 | 21  | Hello World                                  | ハロー・ワールド                       | 2019         | [Link](https://myanimelist.net/anime/38816/Hello_World)       |
