@@ -1,6 +1,8 @@
 # animovie-db
 keylaplace's (MarkipelerHD) database of anime movies. Request for access via Discord by markipeler_hd#6842.
 **Updated: 29 June 2025**
+## Movie Database
+You can check the database of movie lists [here](animovie-db.md)
 ## Movie Specification
 1. **1080p** resolution from **Blu-ray rips** if available, or **WEBrip**.
 2. Encoded in **HEVC**, or **AV1***.
