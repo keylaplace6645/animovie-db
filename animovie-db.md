@@ -40,8 +40,8 @@
 | 38  | SPYxFAMILY Code:White                        | スパイファミリー コード:ホワイト         | 2023         | [Link](https://myanimelist.net/anime/53888/Spy_x_Family_Code_White) |
 | 39  | The Concierge at Hokkyoku Department Store (**AV1**)   | 北極百貨店のコンシェルジュさん           | 2023         | [Link](https://myanimelist.net/anime/55115/Hokkyoku_Hyakkaten_no_Concierge-san) |
 | 40  | Komada: A Whisky Family                      | 駒田蒸留所へようこそ                    | 2023         | [Link](https://myanimelist.net/anime/55149/Komada_Jouryuusho_e_Youkoso) |
-| 41  | Ghost Cat Anzu                      | 化け猫あんずちゃん                    | 2024         | [Link](https://myanimelist.net/anime/54603/Bakeneko_Anzu-chan) |
-| 42  | Gold Kingdom and Water Kingdom               | 金の国 水の国                           | 2023         | [Link](https://myanimelist.net/anime/52186/Kin_no_Kuni_Mizu_no_Kuni) |
+| 41  | Gold Kingdom and Water Kingdom               | 金の国 水の国                           | 2023         | [Link](https://myanimelist.net/anime/52186/Kin_no_Kuni_Mizu_no_Kuni) |
+| 42  | Ghost Cat Anzu                      | 化け猫あんずちゃん                    | 2024         | [Link](https://myanimelist.net/anime/54603/Bakeneko_Anzu-chan) |
 | 43  | My Oni Girl                                  | 好きでも嫌いなあまのじゃく               | 2024         | [Link](https://myanimelist.net/anime/58449/Suki_demo_Kirai_na_Amanojaku) |
 | 44  | Look Back                                    | ルックバック                            | 2024         | [Link](https://myanimelist.net/anime/58125/Look_Back)         |
 | 45  | The Colors Within                            | きみの色                                | 2024         | [Link](http://myanimelist.net/anime/53747/Kimi_no_Iro)        |
