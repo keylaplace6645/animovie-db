@@ -37,7 +37,7 @@
 | 35  | To Every You I've Loved Before               | 僕が愛したすべての君へ                  | 2022         | [Link](https://myanimelist.net/anime/49834/Boku_ga_Aishita_Subete_no_Kimi_e) |
 | 36  | To Me, The One Who Loved You                 | 君を愛したひとりの僕へ                  | 2022         | [Link](https://myanimelist.net/anime/49835/Kimi_wo_Aishita_Hitori_no_Boku_e) |
 | 37  | Blue Thermal                                 | ブルーサーマル                         | 2022         | [Link](https://myanimelist.net/anime/49576/Blue_Thermal)      |
-| 38  | Milky☆Highway                                 | ミルキー☆ハイウェイ                         | 2022         | [Link](https://myanimelist.net/anime/57925)      |
+| 38  | Milky☆Highway (HARDSUBBED)                                | ミルキー☆ハイウェイ                         | 2022         | [Link](https://myanimelist.net/anime/57925)      |
 | 39  | SPYxFAMILY Code:White                        | スパイファミリー コード:ホワイト         | 2023         | [Link](https://myanimelist.net/anime/53888/Spy_x_Family_Code_White) |
 | 40  | The Concierge at Hokkyoku Department Store (**AV1**)   | 北極百貨店のコンシェルジュさん           | 2023         | [Link](https://myanimelist.net/anime/55115/Hokkyoku_Hyakkaten_no_Concierge-san) |
 | 41  | Komada: A Whisky Family                      | 駒田蒸留所へようこそ                    | 2023         | [Link](https://myanimelist.net/anime/55149/Komada_Jouryuusho_e_Youkoso) |
