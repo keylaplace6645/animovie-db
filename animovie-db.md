@@ -49,3 +49,4 @@
 | 47  | My Oni Girl                                  | 好きでも嫌いなあまのじゃく               | 2024         | [Link](https://myanimelist.net/anime/58449/Suki_demo_Kirai_na_Amanojaku) |
 | 48  | Look Back                                    | ルックバック                            | 2024         | [Link](https://myanimelist.net/anime/58125/Look_Back)         |
 | 47  | The Colors Within                            | きみの色                                | 2024         | [Link](http://myanimelist.net/anime/53747/Kimi_no_Iro)        |
+| 48 | 100 METERS                            | ひゃくえむ。                             | 2025         | [Link](https://myanimelist.net/anime/58919/Hyakuemu)        |
